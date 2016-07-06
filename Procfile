@@ -1,1 +1,1 @@
-worker: node sweaterweathertalking.js
+worker: node sweaterweatherfriends.js
